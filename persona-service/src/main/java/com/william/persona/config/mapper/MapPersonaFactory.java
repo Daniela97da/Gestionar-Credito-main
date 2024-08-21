@@ -1,9 +1,4 @@
-package com.william.persona.config.mapper;
 
-import com.william.persona.domain.model.Person;
-import com.william.persona.infrastructure.dto.AddPersonDTO;
-import com.william.persona.infrastructure.dto.EditPersonDTO;
-import com.william.persona.infrastructure.dto.PersonDTO;
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
