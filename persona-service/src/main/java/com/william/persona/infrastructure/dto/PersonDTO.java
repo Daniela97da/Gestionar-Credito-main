@@ -1,8 +1,8 @@
-package com.william.persona.infrastructure.dto;
+
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.william.persona.domain.model.DocumentType;
+
 import lombok.Data;
 
 import java.time.LocalDate;
