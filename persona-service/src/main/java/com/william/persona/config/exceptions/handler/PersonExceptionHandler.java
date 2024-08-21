@@ -1,7 +1,7 @@
-package com.william.persona.config.exceptions.handler;
+package com.daniela.persona.config.exceptions.handler;
 
-import com.william.persona.config.exceptions.PersonException;
-import com.william.persona.config.exceptions.PersonNotFoundException;
+import com.daniela.persona.config.exceptions.PersonException;
+import com.daniela.persona.config.exceptions.PersonNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;
