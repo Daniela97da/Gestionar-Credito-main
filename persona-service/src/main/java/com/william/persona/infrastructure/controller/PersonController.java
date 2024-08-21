@@ -1,9 +1,4 @@
-package com.william.persona.infrastructure.controller;
 
-import com.william.persona.infrastructure.dto.AddPersonDTO;
-import com.william.persona.infrastructure.dto.EditPersonDTO;
-import com.william.persona.infrastructure.dto.PersonDTO;
-import com.william.persona.service.PersonService;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.internal.bytebuddy.asm.Advice;
 import org.springframework.http.ResponseEntity;
