@@ -1,4 +1,4 @@
-package com.william.persona.config.exceptions;
+
 
 public class PersonException extends RuntimeException {
 
