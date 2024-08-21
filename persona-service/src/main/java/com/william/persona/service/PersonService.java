@@ -1,8 +1,8 @@
-package com.william.persona.service;
+package com.daniela.persona.service;
 
-import com.william.persona.infrastructure.dto.AddPersonDTO;
-import com.william.persona.infrastructure.dto.EditPersonDTO;
-import com.william.persona.infrastructure.dto.PersonDTO;
+import com.daniela.persona.infrastructure.dto.AddPersonDTO;
+import com.daniela.persona.infrastructure.dto.EditPersonDTO;
+import com.daniela.persona.infrastructure.dto.PersonDTO;
 
 import java.util.List;
 
