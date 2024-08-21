@@ -1,4 +1,3 @@
-package com.william.persona.domain.model;
 
 
 import jakarta.persistence.*;
