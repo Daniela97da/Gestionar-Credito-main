@@ -1,6 +1,4 @@
-package com.william.persona.infrastructure.dao;
 
-import com.william.persona.domain.model.Person;
 
 import java.util.List;
 import java.util.Optional;
